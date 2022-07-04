@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:0 15px;
+}
+#top_link{
+    text-align: center;
+    margin-top:45px;
+}
+#top_link a{
+    text-decoration:none;
+    padding:10px;
+    border:1px solid rgb(247, 225, 225);
+    color:#000;
+    text-transform:uppercase;
+}
+#website_name{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight:bold;
+    padding:5px 10px;
+    border:1px solid rgb(224, 224, 224);
+    margin-top:30px;
+    display:inline-block;
+    border-radius:10px;
+}
+#blog-website{}
+#blog-website #heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    padding-bottom:10px;
+    margin-top:50px;
+}
+#heading-btm-line{
+    width:800px;
+    margin: 0 auto;
+}
+.blog-template{
+    margin-top:50px;
+    background-color: rgb(240, 239, 239);
+    padding:20px;
+    margin-bottom:50px;
+}
+.blog-template h3{
+    text-transform: uppercase;
+    font-weight:bolder;
+    letter-spacing:0em;
+    font-style:italic;
+    margin-bottom: 20px;
+}
+.author_details{
+    margin-left:30px;
+}
+.author_name{
+    font-weight:bolder;
+    font-style:italic;
+}
+.blog-template p{
+    margin-top:10px;
+    text-align: justify;
+}
+#form{
+    margin-left:50px;
+}
+.form_myself{}
+.form_myself h2{
+    margin-top:30px;
+    font-weight:500;
+    margin-bottom:20px;
+}
